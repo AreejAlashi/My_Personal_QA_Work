@@ -38,9 +38,9 @@ It demonstrates manual software testing by creating test scenarios and test case
 
 
 ## 🚀 Status
-Work in progress – more improvements and future automation using Selenium will be added.
+. Work in progress – more improvements and future automation using Selenium will be added.
 
-This project is part of my QA learning journey.
+. This project is part of my QA learning journey.
 ---
 
 
