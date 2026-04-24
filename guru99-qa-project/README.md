@@ -19,14 +19,14 @@ It demonstrates manual software testing by creating test scenarios and test case
 
 ## 📊 Project Artifacts
 
-### 1. Test Scenarios
+### 1. Test Scenarios - 80 Test Scenarios
  🔗 [View Test Scenarios Sheet](https://docs.google.com/spreadsheets/d/1PmQwoH7ecZFqzhlrxnE88L1hktVeDJ-W/edit?usp=sharing)
 
 <img width="1093" height="453" alt="testScenario" src="https://github.com/user-attachments/assets/d799396a-a901-40fe-8d50-8da522dbe513" />
 
 
 
-### 2. Test Cases
+### 2. Test Cases - more than 300 Test Cases
 
 🔗 [View Test Cases Sheet](https://docs.google.com/spreadsheets/d/1xo_t3vDkjWUtBHucyb49apv-qblq3Sge/edit?usp=sharing)
 
