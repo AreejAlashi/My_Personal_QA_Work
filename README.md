@@ -5,3 +5,5 @@ I built independently as part of my self-learning journey
 ## 📁 Projects
 
 - Volunteer QA Work → ./Volunteer
+
+-  Guru99 Banking QA Project
