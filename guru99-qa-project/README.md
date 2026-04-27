@@ -1,4 +1,3 @@
-# Guru99 Banking QA Project
 
 This project is based on the Guru99 Banking System SRS.
 
@@ -31,6 +30,20 @@ It demonstrates manual software testing by creating test scenarios and test case
 🔗 [View Test Cases Sheet](https://docs.google.com/spreadsheets/d/1xo_t3vDkjWUtBHucyb49apv-qblq3Sge/edit?usp=sharing)
 
 <img width="1048" height="428" alt="TestCases" src="https://github.com/user-attachments/assets/c7a2b522-0da3-476b-8d05-a8563fa1ce7f" />
+
+
+### 3. Test Plan
+
+A complete Test Plan has been created for the Guru99 Banking System based on the SRS document.
+
+
+🔗 [View Test Plan Document](https://drive.google.com/file/d/1LePQ6_1yvcSYSYh6hz6T7oKRNKiNAFct/view?usp=sharing)
+
+
+<img width="411" height="408" alt="image" src="https://github.com/user-attachments/assets/8cd342ab-9c96-4ca5-ac42-67c6e6c9b05e" />
+
+
+
 
 
 
