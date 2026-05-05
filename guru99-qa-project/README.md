@@ -32,7 +32,22 @@ It demonstrates manual software testing by creating test scenarios and test case
 <img width="1048" height="428" alt="TestCases" src="https://github.com/user-attachments/assets/c7a2b522-0da3-476b-8d05-a8563fa1ce7f" />
 
 
-### 3. Test Plan
+### 3. Integration Test Scenarios - 12 Integration Test Scenarios
+
+🔗 [View Test Scenarios Sheet](https://docs.google.com/spreadsheets/d/1MHJGqoXImp3Ywf27Uaw9le_y_7vxTpG6/edit?usp=drive_link&ouid=107674174987184937055&rtpof=true&sd=true)
+
+![Integration Scenarios](https://github.com/user-attachments/assets/fedbc39a-449f-49a8-9b32-31372ed77210)
+
+---
+
+### 4. Integration Test Cases - 30+ Integration Test Cases
+
+🔗 [View Test Cases Sheet](https://docs.google.com/spreadsheets/d/1P_lAyhc9K65MYoIzBX5hWLwJSZk5XXc_/edit?usp=drive_link&ouid=107674174987184937055&rtpof=true&sd=true)
+
+![Integration Test Cases](https://github.com/user-attachments/assets/ef23d084-066a-4103-8e4d-0955eeaa7cb0)
+
+
+### 5. Test Plan
 
 A complete Test Plan has been created for the Guru99 Banking System based on the SRS document.
 
